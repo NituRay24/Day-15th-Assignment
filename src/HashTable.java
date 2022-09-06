@@ -1,5 +1,5 @@
 import java.util.Hashtable;
-import java.util.Map;
+import java.util.HashMap;
 public class HashTable {
     Hashtable<String, Integer> friendsTable = new Hashtable<>();
 
